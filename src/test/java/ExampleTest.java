@@ -6,9 +6,6 @@ import webdriver.DriverFactory;
 import static org.junit.Assert.assertEquals;
 
 
-/**
- * Created by LechoAdmin on 2015-10-07.
- */
 public class ExampleTest {
 
     protected WebDriver webDriver;

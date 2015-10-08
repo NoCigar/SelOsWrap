@@ -4,9 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-/**
- * Created by LechoAdmin on 2015-10-07.
- */
 public class LinuxDriverFactory {
 
     public static WebDriver getDriver(String targetBrowser) {

@@ -5,9 +5,6 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
-/**
- * Created by LechoAdmin on 2015-10-07.
- */
 public class WinDriverFactory {
 
     public static WebDriver getDriver(String targetBrowser) {
